@@ -1,0 +1,13 @@
+# Project PlayGround
+
+# Ignore DDC
+
+
+# Ignore any saved local files
+saved/**/*
+intermediate/**/*
+DerivedDataCache/**/*
+
+
+# Explcitly ignore Mac DS_Store files, regardless of where they are
+.DS_Store
